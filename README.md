@@ -15,8 +15,7 @@ Estudante de Engenharia de Computação com experiência prática em análise de
 
 ### [📊 Dashboard Financeiro — Power BI](./dashboard-financeiro-powerbi/)
 
-Dashboard interativo com KPIs financeiros de uma loja de moda paraense.
-
+> ⚠️ **Nota:** Os dados utilizados neste projeto são fictícios, gerados para fins de demonstração do dashboard.
 - **Ferramentas:** Power BI Desktop · DAX · Power Query · Excel
 - **KPIs:** Lucro, Receita, Custo, Margem de Lucro, Peças Vendidas
 - **Destaque:** Filtros dinâmicos por mês e produto com medidas DAX
